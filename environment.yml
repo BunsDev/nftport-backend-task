@@ -1,0 +1,7 @@
+name: nftport-backend-task
+dependencies:
+  - python=3.9
+  - pip=21.0.1
+  - pip:
+      - requests==2.25.1
+      - tqdm==4.60.0
