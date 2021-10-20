@@ -1,5 +1,12 @@
 import requests
 
+"""
+Start the web3 gateway service before running.
+
+cd web3_gateway
+docker-compose up
+"""
+
 HEADERS = {
     "Content-Type": "application/json",
     "Accept": "application/json"
