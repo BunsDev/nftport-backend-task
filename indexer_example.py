@@ -1,6 +1,9 @@
-import requests
-
 from indexer.rarible_indexer import Indexer
+
+"""
+Install required dependencies in any way you like, see the dependencies in 
+environment.yml
+"""
 
 indexer = Indexer()
 tokens = indexer.execute(
