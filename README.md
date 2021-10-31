@@ -2,7 +2,7 @@
 
 ### Getting NFTs
 
-Use this (API endpoint)[https://docs.nftport.xyz/docs/nftport/b3A6MjAzNDUzNTQ-retrieve-contract-nf-ts]
+Use this [API endpoint](https://docs.nftport.xyz/docs/nftport/b3A6MjAzNDUzNTQ-retrieve-contract-nf-ts)
 to fetch all contract addresses and token ids.
 
 ### Web3 gateway
