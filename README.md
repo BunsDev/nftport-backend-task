@@ -1,9 +1,9 @@
 # NFTPort Backend Test Assignment
 
-### Indexer
+### Getting NFTs
 
-Indexer gets all token_ids for a given NFT contract address. 
-Example usage in `indexer_example.py`
+Use this (API endpoint)[https://docs.nftport.xyz/docs/nftport/b3A6MjAzNDUzNTQ-retrieve-contract-nf-ts]
+to fetch all contract addresses and token ids.
 
 ### Web3 gateway
 
